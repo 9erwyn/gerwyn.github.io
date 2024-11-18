@@ -5,10 +5,10 @@ class mainNav extends HTMLElement {
         this.innerHTML = `
         <div id="nav">
         <div id="nav-container" class="container">
-            <a href="../index.html">Gerwyn Giovanni</a>
+            <a href="https://9erwyn.github.io/portfolio/</a>
                 
                 <div id="nav-link">
-                    <a href="../work/work.html">Work</a>
+                    <a href="https://9erwyn.github.io/portfolio/work.html">Work</a>
                     <a href="#about-me">Contact</a>
                 </div>
             </div>
