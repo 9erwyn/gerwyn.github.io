@@ -5,7 +5,7 @@ class mainNav extends HTMLElement {
         this.innerHTML = `
         <div id="nav">
         <div id="nav-container" class="container">
-            <a href="../index.html">Gerwyn Giovanni</a>
+            <a href="/index.html">Gerwyn Giovanni</a>
                 
                 <div id="nav-link">
                     <a href="work.html">Work</a>
