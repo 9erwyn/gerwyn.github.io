@@ -8,7 +8,7 @@ class mainNav extends HTMLElement {
             <a href="/index.html">Gerwyn Giovanni</a>
                 
                 <div id="nav-link">
-                    <a href="work.html">Work</a>
+                    <a href="/work/work.html">Work</a>
                     <a href="#about-me">Contact</a>
                 </div>
             </div>
